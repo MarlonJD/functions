@@ -1,4 +1,5 @@
-<?php $i="0";
+<?php
+$i="0";
 function kalanBul($bu, $buna) {
    global $kalan;
    $kalan = $bu % $buna;
